@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AplicacionConsola/1.0.0": {
+        "dependencies": {
+          "Práctica4": "1.0.0"
+        },
+        "runtime": {
+          "AplicacionConsola.dll": {}
+        }
+      },
+      "Práctica4/1.0.0": {
+        "runtime": {
+          "Práctica4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicacionConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Práctica4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

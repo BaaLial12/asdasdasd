@@ -1,0 +1,12 @@
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.csproj.AssemblyReference.cache
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.AssemblyInfoInputs.cache
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.AssemblyInfo.cs
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\bin\Debug\net6.0\Práctica4.deps.json
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\bin\Debug\net6.0\Práctica4.dll
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\bin\Debug\net6.0\Práctica4.pdb
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.dll
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\refint\Práctica4.dll
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\Práctica4.pdb
+C:\Users\paula\source\Repos\2022-pss-lhm232-ual\Práctica4\Práctica4\obj\Debug\net6.0\ref\Práctica4.dll

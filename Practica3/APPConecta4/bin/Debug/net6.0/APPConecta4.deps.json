@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "APPConecta4/1.0.0": {
+        "dependencies": {
+          "LibreriaConecta4": "1.0.0"
+        },
+        "runtime": {
+          "APPConecta4.dll": {}
+        }
+      },
+      "LibreriaConecta4/1.0.0": {
+        "runtime": {
+          "LibreriaConecta4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APPConecta4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaConecta4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
